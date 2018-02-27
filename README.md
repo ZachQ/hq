@@ -1,7 +1,6 @@
 # HQ Answers
 
 See a demo here: https://youtu.be/Xzgw3kH8ZcI
-Check out the site here: http://jakemor.com/hq
 
 Feel free to fork this project!
 
@@ -35,9 +34,6 @@ Enjoy!
 
 This website is NOT to be used during a live game. It's purpose is to show how programming can be fun, and to teach (that's why the code is public!). It's also meant to make HQ work a little harder to make their amazing game even harder to crack! 
 
-Update: After some research I noticed that Toby Miller published a post on medium on Nov. 14th which uses similar techniques. Check out his great post here: https://medium.com/@tobymellor/hq-trivia-using-bots-to-win-money-from-online-game-shows-ce2a1b11828b
-
 ## Get in Touch
-
-jakemny@gmail.com
+Originally Forked from
 www.jakemor.com
